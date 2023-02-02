@@ -1,6 +1,5 @@
-function mostrar()
-{
-	//Genero el número RANDOM entre 1 y 10 
-	alert("ok");	
+// Dylan Julian Gonzalez
 
-}//FIN DE LA FUNCIÓN
+function mostrar() {
+  alert(Math.round(Math.random() * 10));
+} //FIN DE LA FUNCIÓN

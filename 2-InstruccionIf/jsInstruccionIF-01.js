@@ -1,6 +1,9 @@
-function mostrar()
-{
-	//tomo la edad  
-	alert("ok");
+// Dylan Julian Gonzalez
 
-}//FIN DE LA FUNCIÓN
+function mostrar() {
+  //tomo la edad
+  let edad = txtIdEdad.value;
+  if (edad == 15) {
+    return alert("niña bonita");
+  }
+} //FIN DE LA FUNCIÓN
